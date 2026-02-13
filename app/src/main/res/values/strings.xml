@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LockdownBiometrics</string>
+    <string name="lock_device_admin">LockdownAdmin</string>
+</resources>
